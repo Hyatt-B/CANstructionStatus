@@ -8,3 +8,14 @@ h1 {
     font-size: 60px;
     text-align: center;
 }
+
+.adminlogin {
+    width: 150px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgba(white);
+    border-radius: 10px;
+    border-color: black;
+    font-size: 19px;
+    
+}
